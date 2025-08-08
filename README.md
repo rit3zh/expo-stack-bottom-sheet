@@ -1,8 +1,8 @@
 # 🧊 Expo Bottom Sheet Stack
 
-A sleek, glassy **stackable bottom sheet** built with [Reanimated 3](https://docs.swmansion.com/react-native-reanimated/). Inspired by iOS modal sheets and crafted for dark, elegant UIs.
+A sleek, **stackable bottom sheet** built with [Reanimated 3](https://docs.swmansion.com/react-native-reanimated/). Inspired by iOS modal sheets with dark themeing.
 
-https://github.com/user-attachments/assets/your-video-id.mp4
+https://github.com/user-attachments/assets/f11c214c-b642-46e5-bd2a-9603880d228c
 
 ---
 
