@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/f11c214c-b642-46e5-bd2a-9603880d228c
 git clone https://github.com/rit3zh/expo-bottom-sheet-stack
 cd expo-bottom-sheet-stack
 pnpm install
-pnpm ios
+pnpm start
 ```
 
 ---
